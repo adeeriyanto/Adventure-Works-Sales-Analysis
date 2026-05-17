@@ -75,3 +75,22 @@ This project analyzes Adventure Works sales data from 2015–2017, covering reve
 - The customer base skews older (65+), suggesting marketing efforts should be tailored to mature demographics
 - Management and Professional occupations have significantly higher income, making them prime targets for premium product marketing
 - Overall return rate of 2.17% is low, indicating good product quality and customer satisfaction
+
+---
+
+## 🎯 Strategic Recommendations
+
+### Sales & Revenue
+- **Double down on the US and Australia markets** — both contribute over 60% of total revenue and should be prioritized for marketing spend and inventory allocation
+- **Expand presence in underperforming markets** — France ($2.36M) and Canada ($1.77M) show potential but trail significantly, targeted promotions or partnerships could unlock growth
+- **Capitalize on Road Bikes dominance** — as the highest-grossing sub-category at $11.29M, ensuring consistent stock availability and upselling accessories in this category could drive incremental revenue
+
+### Customer Strategy
+- **Target mature demographics (65+)** — the largest customer segment. consider loyalty programs, senior-friendly purchasing experiences, and product lines tailored to this age group
+- **Engage high-income segments** — Management ($92.22K) and Professional ($74.17K) occupations have significantly higher income. premium product offerings and exclusive bundles could increase average order value
+- **Leverage the married majority** — with 54.09% married customers, family-oriented promotions and bundled deals may resonate well
+
+### Returns & Product Quality
+- **Investigate high-return products** — Water Bottle – 30 oz. (155 units) and Patch Kit/8 Patches (95 units) top the return list. a quality review or improved product descriptions could reduce return rates
+- **Monitor US and Australia returns closely** — as the top revenue markets, they also lead in returns, a proactive post-purchase follow-up strategy could improve customer retention
+- **Maintain the low return rate** — at 2.17%, the overall return rate is healthy. sustaining this through quality control and accurate product expectations is key
